@@ -179,6 +179,9 @@
         <mxCell id="ukLrMctXmGFwFIPji665-57" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#314354;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#647687;shape=mxgraph.azure.file;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;labelBackgroundColor=default;" parent="ukLrMctXmGFwFIPji665-114" vertex="1">
           <mxGeometry x="7.7999999999999545" y="60" width="22" height="23.4" as="geometry" />
         </mxCell>
+        <mxCell id="eGnhwK2kcuTsQrjjZ_P1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="820" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
