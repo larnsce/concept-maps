@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <object label="Step 9: commit message" id="ukLrMctXmGFwFIPji665-105">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-157" value="&lt;div&gt;commit&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-105" vertex="1">
           <mxGeometry x="675" y="160" width="50" height="50" as="geometry" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <object label="Step 8: edit plots" id="ukLrMctXmGFwFIPji665-106">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-148" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;fontFamily=Helvetica;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-106" vertex="1">
           <mxGeometry x="645" y="230" width="110" height="150" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="684" y="339.85" width="60" height="33.3" as="geometry" />
         </mxCell>
         <object label="Step 7: commit message" id="ukLrMctXmGFwFIPji665-107">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-145" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" parent="ukLrMctXmGFwFIPji665-107" target="ukLrMctXmGFwFIPji665-146" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,7 +63,7 @@
           <mxGeometry x="442.8" y="90" width="127" height="60" as="geometry" />
         </mxCell>
         <object label="Step 6: daten analyse" id="ukLrMctXmGFwFIPji665-108">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-136" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;fontFamily=Helvetica;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-108" vertex="1">
           <mxGeometry x="445" y="230" width="110" height="150" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="481" y="339.85" width="60" height="33.3" as="geometry" />
         </mxCell>
         <object label="Step 5: commit data" id="ukLrMctXmGFwFIPji665-109">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-133" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;startArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-109" target="ukLrMctXmGFwFIPji665-134" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -107,7 +107,7 @@
           <mxGeometry x="242.8" y="90" width="127" height="60" as="geometry" />
         </mxCell>
         <object label="Step 4: add data" id="ukLrMctXmGFwFIPji665-110">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-122" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;fontFamily=Helvetica;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-110" vertex="1">
           <mxGeometry x="245" y="230" width="110" height="150" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="281" y="339.85" width="60" height="33.3" as="geometry" />
         </mxCell>
         <object label="Step 3: commit message" id="ukLrMctXmGFwFIPji665-111">
-          <mxCell style="" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeColor=#FF8000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-111" vertex="1">
           <mxGeometry x="30" y="84" width="160" height="70" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="45.8" y="90" width="127" height="60" as="geometry" />
         </mxCell>
         <object label="Step 2: make a commit" id="ukLrMctXmGFwFIPji665-112">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="ukLrMctXmGFwFIPji665-118" value="commit" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" parent="ukLrMctXmGFwFIPji665-112" vertex="1">
           <mxGeometry x="75" y="160" width="50" height="50" as="geometry" />
